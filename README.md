@@ -1,5 +1,5 @@
-# FinBERT Under Geopolitical Domain Shift
-Project Title: FinBERT Under Geopolitical Domain Shift: Evaluating LoRA and Fine-Tuning for Cross-Domain Sentiment
+# FinBERT Performance Under Geopolitical Domain Shift
+Project Title: FinBERT Performance Under Geopolitical Domain Shift: Evaluating LoRA and Fine-Tuning for Cross-Domain Sentiment
 
 Author: Fung Lok Lam
 
