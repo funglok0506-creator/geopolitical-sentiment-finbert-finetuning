@@ -1,0 +1,179 @@
+headline,source,date,date_band,theme,label,predicted,confidence
+Trump sanctions have swift impact but will world stop buying Russian oil and gas?,guardian,2025-10-26,2024-2026,sanctions,Neu,Neu,0.7309956550598145
+"Tariffs on Nato allies are wrong, Starmer tells Trump in Greenland crisis call",guardian,2026-01-18,2024-2026,tariffs_trade,Neu,Neg,0.6540769934654236
+"China will cut import tariffs on consumer goods,",reuters,,unknown,tariffs_trade,Pos,Neg,0.5394424796104431
+"U.S. business seeks action, not trade war, in Xi-Trump summit",reuters,,unknown,tariffs_trade,Neu,Neu,0.8379831910133362
+China pressed iron ore traders to halt business even before U.N. sanctions,reuters,,unknown,sanctions,Neu,Neg,0.9374122619628906
+Exclusive: U.S. to impose arms embargo on South Sudan to end conflict - sources,reuters,,unknown,sanctions,Neu,Neu,0.7971635460853577
+U.S. expected to impose up to $60 billion in China tariffs by Friday: sources,reuters,,unknown,tariffs_trade,Neg,Neu,0.803952693939209
+Belarus leader to meet Putin amid threat of new Western sanctions,reuters,,unknown,sanctions,Neu,Neu,0.5554791688919067
+EU drops plans to hit American bourbon with retaliatory tariffs,guardian,2025-04-08,2024-2026,tariffs_trade,Pos,Neg,0.4743281304836273
+Australia and China suspend WTO wine tariff dispute before Anthony Albanese’s trip to Beijing,guardian,2023-10-21,2022-2023,tariffs_trade,Pos,Neg,0.6110644340515137
+Putin vows oil shipments to India will be ‘uninterrupted’ in defiance of US,guardian,2025-12-05,2024-2026,ukraine_russia,Neu,Neu,0.7724359631538391
+REFILE-Large retailers urge Trump against China tariffs,reuters,,unknown,tariffs_trade,Neg,Neu,0.6775217652320862
+Russia stocks seen hitting record highs but sanctions to weigh,reuters,,unknown,sanctions,Neu,Pos,0.5371460318565369
+White House's Cohn says 'fair trade' means reciprocal tariffs,reuters,,unknown,tariffs_trade,Neg,Neu,0.8786934614181519
+Anthony Albanese confident dysfunction in US Congress won’t affect Aukus deal (X),guardian,2023-10-24,2022-2023,industrial_policy,Neu,Neg,0.490580290555954
+Trump’s tariffs could deliver a $27bn blow to Australia – and the cost of a global trade war would be far higher,guardian,2025-04-03,2024-2026,tariffs_trade,Neg,Neg,0.8464152216911316
+Rouhani calls Trump's sanctions a 'crime and aggression (X),reuters,,unknown,sanctions,Neu,Neg,0.5706432461738586
+"US and China holding talks on trade war, Trump says after Beijing rebuttal ",guardian,2025-04-24,2024-2026,tariffs_trade,Neu,Neu,0.3911460041999817
+"European stock markets fall as Trump renews tariff threats; trade war would be a ‘wrecking ball’ for UK manufacturing, union says",guardian,2026-01-19,2024-2026,tariffs_trade,Neg,Neg,0.9627191424369812
+Kim Jong-un arrives in Russia to meet Putin as US threatens sanctions,guardian,2023-09-12,2022-2023,sanctions,Neg,Neu,0.8534545302391052
+US farmers say Trump’s $12bn package not enough to undo damage from tariffs,guardian,2025-12-22,2024-2026,tariffs_trade,Neg,Neg,0.7310227155685425
+Trade war fears hammer US consumer expectations; FTSE 100 in longest winning run since 2019 – as it happened,guardian,2025-04-25,2024-2026,tariffs_trade,Neg,Neg,0.6834250688552856
+ZTE warns of impact of U.S. sanction settlement penalties,reuters,,unknown,sanctions,Neg,Neg,0.9244322776794434
+Trump says China ‘totally violated’ tariff truce after US warns trade talks have ‘stalled’ – as it happened,guardian,2025-05-30,2024-2026,tariffs_trade,Neg,Neg,0.8787159323692322
+Chinese economy slows amid Trump trade war and weaker consumer spending (X),guardian,2025-09-15,2024-2026,tariffs_trade,Neg,Neg,0.959672212600708
+"U.S. to slap tariffs soon on steel, aluminum from EU: WSJ",reuters,,unknown,tariffs_trade,Neg,Neg,0.7536401748657227
+Nike expects Trump tariffs to cost it $1bn,guardian,2025-06-27,2024-2026,tariffs_trade,Neg,Neg,0.6483426690101624
+UK’s largest bioethanol plant to shut after blow from Starmer’s trade deal with Trump (X),guardian,2025-08-15,2024-2026,tariffs_trade,Neu,Neg,0.9033800363540649
+China’s economy beats expectations in face of Trump’s trade war,guardian,2025-07-15,2024-2026,tariffs_trade,Pos,Pos,0.8659800291061401
+Trump claims ‘total reset’ of US-China ties as 90-day pause to trade war agreed,guardian,2025-05-12,2024-2026,tariffs_trade,Pos,Neg,0.7267261743545532
+U.S. trade envoy Ross says up to EU whether there is escalation on tariffs: Le Figaro,reuters,,unknown,tariffs_trade,Neu,Neu,0.44362348318099976
+China tells US to ‘stop whining’ over tariffs as it reports GDP growth spurt,guardian,2025-04-16,2024-2026,tariffs_trade,Neu,Neg,0.43093568086624146
+"Russia c.bank: if new sanctions imposed, we will try to curb risks",reuters,,unknown,sanctions,Neu,Pos,0.8381300568580627
+"US adds just 73,000 jobs in July amid pressure from Trump’s trade war",guardian,2025-08-01,2024-2026,tariffs_trade,Neg,Neg,0.9641386866569519
+World stock markets brace for turbulence after Trump’s latest tariff shock,guardian,2026-01-18,2024-2026,tariffs_trade,Neg,Neg,0.7847731113433838
+Honda’s quarterly profits are halved as Trump’s tariffs bite,guardian,2025-08-06,2024-2026,tariffs_trade,Neu,Pos,0.8069180846214294
+US sees embarrassing UN defeat over Iran arms embargo proposal,guardian,2020-08-14,2018-2021,sanctions,Neg,Neg,0.8480063080787659
+Iran could quit nuclear deal in 'hours' if new U.S. sanctions imposed: Rouhani,reuters,,unknown,sanctions,Neg,Neu,0.7261680960655212
+Starmer plays down prospect of retaliatory tariffs against US over Greenland,guardian,2026-01-19,2024-2026,tariffs_trade,Pos,Neg,0.5012049078941345
+U.S. could speed up North Korea sanctions in response to missile test - official,reuters,,unknown,sanctions,Neu,Pos,0.6586761474609375
+What do Trump’s tariffs mean for US-China trade?,guardian,2025-02-07,2024-2026,tariffs_trade,Neu,Neu,0.912202000617981
+Australia’s $3bn Aukus bill to boost US and UK industry may go even higher,guardian,2023-03-21,2022-2023,industrial_policy,Pos,Pos,0.9003565907478333
+EU carmakers ‘days away’ from halting work as chip war with China escalates,guardian,2025-10-29,2024-2026,semiconductors,Neg,Neg,0.9079042673110962
+G7 backs Biden infrastructure plan to rival China’s belt and road initiative,guardian,2021-06-12,2018-2021,industrial_policy,Pos,Pos,0.8744303584098816
+"U.S. retailers, shoe companies urge Trump not to hit China with tariffs",reuters,,unknown,tariffs_trade,Neg,Neu,0.6058729887008667
+"U.S. tariffs, China trade tensions overshadow G20 finance meeting",reuters,,unknown,tariffs_trade,Neg,Neg,0.655643880367279
+"U.S. sour crude sellers cut prices after China tariff, OPEC output increase - sources",reuters,,unknown,tariffs_trade,Neg,Neg,0.9280663728713989
+Taco Thursday: European and US stocks rise after Trump ‘chickens out’ over tariffs,guardian,2026-01-22,2024-2026,tariffs_trade,Pos,Pos,0.6364009380340576
+Wall Street hits record high on trade deal hopes; UK car exports to US halve due to tariffs – as it happened,guardian,2025-06-27,2024-2026,tariffs_trade,Pos,Pos,0.8542857766151428
+Russia urges India to line up behind China's Belt and Road initiative,reuters,,unknown,ukraine_russia,Neu,Neu,0.6483144164085388
+"US, UK, EU, Australia and more to meet to discuss critical minerals alliance",guardian,2026-02-01,2024-2026,critical_minerals,Neu,Neu,0.7429063320159912
+Trump says China will face 55% tariffs as he endorses trade deal,guardian,2025-06-11,2024-2026,tariffs_trade,Neg,Neu,0.7483870983123779
+China carmaker GAC says trade war could hurt plans to enter U.S. market,reuters,,unknown,tariffs_trade,Neg,Neg,0.9628656506538391
+Standard Chartered plays down fears of US-China trade war under Trump,guardian,2024-07-30,2024-2026,tariffs_trade,Pos,Neg,0.6273654103279114
+"Gold soars past $5,100 an ounce, silver hits new record on tariff and US shutdown fears – as it happened",guardian,2026-01-26,2024-2026,tariffs_trade,Neg,Pos,0.7206659317016602
+Europe's top court upholds EU sanctions against Russia's Rosneft,reuters,,unknown,sanctions,Neg,Neg,0.7144415378570557
+Could a Donald Trump-shaped torpedo sink Australia’s $368bn Aukus submarine plans?,guardian,2023-03-14,2022-2023,industrial_policy,Neu,Neu,0.9006062746047974
+Cyprus handed 800-page US dossier on Russia sanctions breaches,guardian,2023-05-09,2022-2023,sanctions,Neg,Neg,0.4710536003112793
+Markets slide further amid fears of escalating US-China trade war,guardian,2025-04-11,2024-2026,tariffs_trade,Neg,Neg,0.928598940372467
+"Greenland: new shipping routes, hidden minerals – and a frontline between the US and Russia?",guardian,2026-01-15,2024-2026,ukraine_russia,Neg,Neu,0.8400921821594238
+Oil major Total to seek waiver if U.S. reimposes Iran sanctions: UAE newspaper,reuters,,unknown,sanctions,Neu,Neu,0.5622055530548096
+Modi ready to ‘pay a heavy price’ as India seeks to resist Trump tariffs,guardian,2025-08-07,2024-2026,tariffs_trade,Neg,Neu,0.48849624395370483
+US inflation jumps to 31-year high amid global supply chain crisis – as it happened,guardian,2021-11-10,2018-2021,supply_chain,Neg,Pos,0.6000120639801025
+UK factories return to growth after JLR restarts operations; US manufacturing exports hit by tariffs – as it happened,guardian,2025-11-03,2024-2026,tariffs_trade,Neg,Neg,0.7508178949356079
+Markets fall and gold and silver hit new highs after Trump’s latest tariff threat,guardian,2026-01-19,2024-2026,tariffs_trade,Neg,Neg,0.940189778804779
+"Oil tops $75 on supply cuts, prospect of Iran sanctions",reuters,,unknown,sanctions,Neg,Pos,0.7545284628868103
+"EU, U.S. trade envoys meet on tariffs, outcome unclear",reuters,,unknown,tariffs_trade,Neu,Neu,0.8740028142929077
+Treasury warns of wide impact if U.S. sanctions Russian debt -Bloomberg,reuters,,unknown,sanctions,Neg,Neg,0.9319865703582764
+US imposes sanctions on leader of Wagner group in Mali,guardian,2023-05-25,2022-2023,sanctions,Neg,Neg,0.9226071238517761
+China needs friends in Trump’s trade war. But Xi may have to go it alone,guardian,2025-04-05,2024-2026,tariffs_trade,Neu,Neu,0.8324695229530334
+US and Venezuela set to agree deal on sanctions relief and open elections,guardian,2023-10-16,2022-2023,sanctions,Pos,Pos,0.7325843572616577
+The trade in sanctioned oil is booming as the US turns a blind eye,guardian,2023-09-25,2022-2023,sanctions,Neu,Pos,0.850317120552063
+"Ukraine PM says US investment agreement ‘good, equal and beneficial’ – as it happened",guardian,2025-05-01,2024-2026,ukraine_russia,Pos,Pos,0.8074333667755127
+Trump declaration of Greenland framework deal met with scepticism amid tariff relief,guardian,2026-01-22,2024-2026,tariffs_trade,Neu,Neg,0.8207718133926392
+Trump trade deal shows how vital China’s rare-earth metals are to US defense firms,guardian,2025-06-11,2024-2026,tariffs_trade,Neu,Pos,0.7656937837600708
+Canada vows to 'respond appropriately' to any U.S. steel tariffs,reuters,,unknown,tariffs_trade,Neg,Pos,0.8883891105651855
+What Trump’s tariffs could mean for UK consumers,guardian,2025-04-03,2024-2026,tariffs_trade,Neu,Neu,0.9046580195426941
+EU hopes for quick deal to resolve US trade war after Trump delays 50% tariffs,guardian,2025-05-26,2024-2026,tariffs_trade,Pos,Pos,0.8236256837844849
+U.S. readying new North Korea sanctions if needed - Tillerson,reuters,,unknown,sanctions,Neg,Neu,0.8570600152015686
+Sunak to urge G7 support for collective action against ‘economic coercion’,guardian,2023-05-19,2022-2023,industrial_policy,Neu,Pos,0.7211450934410095
+Xi-Biden meeting overshadowed by conflicts in Ukraine and Israel – and US stance on Taiwan,guardian,2023-11-13,2022-2023,ukraine_russia,Neg,Neg,0.9030214548110962
+Japan minister: Some products likely to get exempted from U.S. tariffs,reuters,,unknown,tariffs_trade,Pos,Neu,0.4708830416202545
+WTO rules EU can apply tariffs on US goods as trade war deepens,guardian,2020-10-13,2018-2021,tariffs_trade,Neg,Neu,0.6345205307006836
+China retaliates against Trump in trade war with 34% tariffs on US imports,guardian,2025-04-04,2024-2026,tariffs_trade,Neg,Neg,0.8005955219268799
+UK accounting watchdog launches review on tougher sanctions,reuters,,unknown,sanctions,Neu,Neu,0.7012900710105896
+"U.S., Europe expose trade divisions as tariff clock ticks",reuters,,unknown,tariffs_trade,Neg,Neg,0.7147756814956665
+Russia's NLMK says finds out in June if exempt from U.S. tariffs,reuters,,unknown,tariffs_trade,Neu,Neu,0.8899080753326416
+IMF warns on risks to global economy amid tariff trade shock – as it happened,guardian,2025-07-29,2024-2026,tariffs_trade,Neg,Neg,0.4522877335548401
+Xi announces plan for Chinese economy to counter impact of US trade war,guardian,2025-04-25,2024-2026,tariffs_trade,Neu,Pos,0.46668559312820435
+Ukraine war briefing: Zelenskyy waves away first US bid for critical minerals,guardian,2025-02-17,2024-2026,ukraine_russia,Neg,Neu,0.5887337923049927
+Beijing threatens countermeasures against countries that ‘appease’ Washington in trade war,guardian,2025-04-21,2024-2026,tariffs_trade,Neg,Neg,0.7198264002799988
+Merkel tells Putin: implement Minsk to get EU sanctions lifted,reuters,,unknown,sanctions,Neu,Neu,0.785925030708313
+US manufacturers hurt by Trump trade war; pound near three-year high against dollar – as it happened,guardian,2025-06-02,2024-2026,tariffs_trade,Neg,Neg,0.9203513860702515
+China trade body confirms challenge to U.S. aluminum foil tariffs,reuters,,unknown,tariffs_trade,Neg,Pos,0.7938647270202637
+Forty-five U.S. trade groups urge Trump to avoid tariffs against China,reuters,,unknown,tariffs_trade,Neg,Neu,0.7411606907844543
+Eurozone growth forecasts cut amid uncertainty over Trump trade war,guardian,2025-05-19,2024-2026,tariffs_trade,Neg,Neg,0.9674765467643738
+Ukraine war briefing: Frustrated Trump threatens Russia sanctions if there no progress on peace deal,guardian,2025-08-23,2024-2026,sanctions,Neg,Neg,0.8403194546699524
+Ukraine war briefing: Russia insists on sticking to its war demands amid Trump sanctions threat,guardian,2025-07-21,2024-2026,sanctions,Neg,Neu,0.6690343618392944
+Trump says China will face 55% tariffs under trade deal; US inflation rises to 2.4% – as it happened,guardian,2025-06-11,2024-2026,tariffs_trade,Neg,Pos,0.9243534207344055
+Canada's Freeland: Will 'respond appropriately' to any U.S. steel tariffs,reuters,,unknown,tariffs_trade,Neg,Pos,0.8425086736679077
+India’s Modi to meet Xi and Putin on first China trip in seven years as US tariffs bite,guardian,2025-08-29,2024-2026,tariffs_trade,Pos,Neu,0.7853966355323792
+"Oil steadies after Brent tops $75 on supply cuts, Iran sanctions threat",reuters,,unknown,sanctions,Neu,Neg,0.8291991949081421
+Oil price jumps and FTSE 100 hits new high after Trump puts sanctions on Russian firms,guardian,2025-10-23,2024-2026,sanctions,Pos,Neg,0.483053594827652
+"Canada, Mexico and EU criticise Trump’s metal tariffs amid fears of trade war",guardian,2025-02-11,2024-2026,tariffs_trade,Neg,Neg,0.953224778175354
+Trump’s dollar delusion: how trade war risks ending the US’s ‘exorbitant privilege’,guardian,2025-11-09,2024-2026,tariffs_trade,Neg,Neu,0.5185834765434265
+China to cut interest rates in response to trade war with US (X),guardian,2025-05-07,2024-2026,tariffs_trade,Neg,Neg,0.8221027255058289
+U.S. offers German car bosses 'zero tariffs' solution to trade row - Handelsblatt,reuters,,unknown,tariffs_trade,Pos,Neu,0.6777565479278564
+"As Trump focuses on his trade war, Brazil and China forge closer ties (X)",guardian,2025-05-23,2024-2026,tariffs_trade,Neg,Pos,0.7016744613647461
+China’s economy hit growth target last year despite Trump trade war and property crisis,guardian,2026-01-19,2024-2026,tariffs_trade,Pos,Pos,0.9486837387084961
+Mexico extends 15 pct steel tariff for non-free trade partner countries,reuters,,unknown,tariffs_trade,Neg,Pos,0.8881253004074097
+Iran seeks OPEC support against U.S. sanctions: letter,reuters,,unknown,sanctions,Neg,Neu,0.8623565435409546
+Dunford says U.S. military options only if sanctions fail: South Korea,reuters,,unknown,sanctions,Neu,Neu,0.871340811252594
+Russia reportedly begins rare earth metals talks with US; Trump ‘very angry’ with Putin – as it happened,guardian,2025-03-31,2024-2026,ukraine_russia,Neg,Neu,0.7384834885597229
+Ukraine war briefing: Trump says ready for more Russia sanctions,guardian,2025-09-08,2024-2026,sanctions,Neg,Neu,0.8322464227676392
+"Fitch: Chinese Telcos' Capex Cuts Offset Tariff, Dividend Pressure (X)",reuters,,unknown,tariffs_trade,Neu,Pos,0.7309295535087585
+Oil traders expect Asia to import more Venezuelan crude if U.S. sanctions kick in (X),reuters,,unknown,sanctions,Neg,Pos,0.47089001536369324
+"Aukus will ‘get done’ despite jitters in Congress, Biden tells Albanese at White House meeting",guardian,2023-10-25,2022-2023,industrial_policy,Neu,Pos,0.654191255569458
+"U.S. to slap tariffs on steel, aluminum from EU on Thursday: sources",reuters,,unknown,tariffs_trade,Neg,Neg,0.8050205707550049
+Gazprom expects no changes to key projects from new U.S. sanctions,reuters,,unknown,sanctions,Neu,Neu,0.7164741158485413
+Trump gives Russia ‘10 or 12’ days to move on Ukraine as ‘no progress made’ – as it happened,guardian,2025-07-28,2024-2026,ukraine_russia,Neg,Neu,0.8165575265884399
+US jobs market slows down as businesses cope with Trump trade war uncertainty,guardian,2025-06-06,2024-2026,tariffs_trade,Neg,Neg,0.9662231206893921
+"Berlin braced for U.S. steel, aluminum tariffs from June 1",reuters,,unknown,tariffs_trade,Neg,Neu,0.6298060417175293
+Head of EU executive secures tariffs delay after talk with Trump,guardian,2025-05-26,2024-2026,tariffs_trade,Pos,Neu,0.6047815680503845
+US shoppers feel the heat of Trump’s trade war: ‘the prices are going up’,guardian,2025-07-10,2024-2026,tariffs_trade,Neg,Pos,0.7442864179611206
+FTSE 100 falls short of record closing high; US-China trade talks ‘going well’ as meeting resumes – as it happened,guardian,2025-06-10,2024-2026,us_china,Pos,Pos,0.7958657741546631
+"US to impose tariffs of up to 3,521% on south-east Asia solar panels",guardian,2025-04-22,2024-2026,tariffs_trade,Neg,Neu,0.679720401763916
+EU on course to renew Russia sanctions barring Le Pen election win,reuters,,unknown,sanctions,Neg,Neg,0.7857875227928162
+French Finance Minister warns Washington against metal tariffs,reuters,,unknown,tariffs_trade,Neg,Neg,0.6352017521858215
+‘Difficult and expensive’: US report raises Aukus doubts after Joe Biden reassures Anthony Albanese at White House,guardian,2023-10-27,2022-2023,industrial_policy,Neg,Neg,0.7460846900939941
+UK economy shrinks by 0.3% as firms hit by tax rises and Trump trade war,guardian,2025-06-12,2024-2026,tariffs_trade,Neg,Neg,0.9714924693107605
+Trump threatens 17% tariffs on food and farm produce exports from Europe,guardian,2025-07-04,2024-2026,tariffs_trade,Neg,Neg,0.5824275016784668
+US small businesses sound alarm over Trump’s tariffs amid crucial holiday season,guardian,2025-11-29,2024-2026,tariffs_trade,Neg,Neg,0.9101278185844421
+S.Korean stocks fall on trade war woes; won rises,reuters,,unknown,tariffs_trade,Neg,Neg,0.9581273198127747
+"Minister defends UK’s decision not to hit back at Trump tariffs threat, saying ‘aim is to de-escalate’ – as it happened",guardian,2026-01-19,2024-2026,tariffs_trade,Pos,Neg,0.5728234052658081
+"Trump tariff threats risk triggering ‘spiral of escalation’ in world economy, says IMF",guardian,2026-01-19,2024-2026,tariffs_trade,Neg,Neg,0.8892050385475159
+"US-EU trade war could cost Ireland more than €18bn, says report",guardian,2025-03-21,2024-2026,tariffs_trade,Neu,Neg,0.9555017948150635
+"Trump to seek tariff 'snap-back', tax equality in NAFTA revamp - letter",reuters,,unknown,tariffs_trade,Neu,Neu,0.7836732864379883
+Bessent urges Europe not to retaliate against Trump’s Greenland tariffs,guardian,2026-01-20,2024-2026,tariffs_trade,Neu,Neg,0.5967466831207275
+"Trump’s trade war could pose ‘substantial’ threat to UK economy, says Bank",guardian,2025-03-05,2024-2026,tariffs_trade,Neg,Neg,0.8933880925178528
+Caterpillar shares slide; Trump steel tariffs may boost costs,reuters,,unknown,tariffs_trade,Neg,Neg,0.9427739977836609
+Putin says anti-Russian sanctions harmful for U.S. and Europe,reuters,,unknown,sanctions,Neu,Neu,0.44312524795532227
+Markets rebound amid latest US-China tariff spat as traders look to possible ‘Taco trade’,guardian,2025-10-13,2024-2026,tariffs_trade,Pos,Neg,0.6023566722869873
+G20 financial leaders seek 'free trade' pledge amid U.S. tariffs concern,reuters,,unknown,tariffs_trade,Pos,Neg,0.6108150482177734
+China accuses Dutch of prolonging chip war that threatens to halt car factories,guardian,2025-11-04,2024-2026,semiconductors,Neg,Neg,0.8857219815254211
+"Trump walks back Greenland tariffs threat, citing vague ‘deal’ over territory",guardian,2026-01-22,2024-2026,tariffs_trade,Neg,Neg,0.8647263050079346
+Putin calls US supply of ATACMS weapons to Ukraine ‘another mistake’,guardian,2023-10-18,2022-2023,ukraine_russia,Neu,Neg,0.9120911359786987
+China says no tariffs on U.S. goods before U.S. tariffs on China goods,reuters,,unknown,tariffs_trade,Pos,Neu,0.9325027465820312
+"Iran eyes more funds for missiles, Guards after U.S. sanctions",reuters,,unknown,sanctions,Neg,Pos,0.4498530626296997
+China says will not fire first shot in trade war with U.S.,reuters,,unknown,tariffs_trade,Pos,Neu,0.5645418167114258
+G7 to discuss more sanctions against Syrian and Russian individuals - UK foreign minister,reuters,,unknown,sanctions,Neg,Neu,0.5574277639389038
+China's premier pledges further market opening as talk of trade war mounts,reuters,,unknown,tariffs_trade,Pos,Neg,0.5120667815208435
+"U.S. sanctions North Koreans it links to weapons, financial networks",reuters,,unknown,sanctions,Neg,Neg,0.89720618724823
+Brazil minister backs tariff to curb U.S. ethanol imports,reuters,,unknown,tariffs_trade,Neg,Pos,0.7562164068222046
+Trump tariffs prompt slump in shipments to US ports,guardian,2025-04-28,2024-2026,tariffs_trade,Neg,Neg,0.9601826667785645
+‘We’re not going away’: Rishi Sunak arrives at G7 announcing Russia sanctions,guardian,2023-05-19,2022-2023,sanctions,Neg,Neu,0.8678905367851257
+Chinese tariffs on U.S. goods to take effect at start of July 6: source,reuters,,unknown,tariffs_trade,Neg,Neu,0.9150815010070801
+"Europe will respond if attacked by U.S. with tariffs, says French finance minister",reuters,,unknown,tariffs_trade,Neg,Pos,0.852581799030304
+"China, South Korea discuss more sanctions on North Korea amid talk of Trump action",reuters,,unknown,sanctions,Neg,Neg,0.6807681322097778
+China offers concessions to avert trade war with U.S.: FT,reuters,,unknown,tariffs_trade,Pos,Pos,0.8199520707130432
+Donald Trump links Greenland threats to Nobel snub as EU trade war looms,guardian,2026-01-19,2024-2026,tariffs_trade,Neg,Neg,0.7452895045280457
+G7 prepares new Russia sanctions as Zelenskiy to attend summit in person,guardian,2023-05-19,2022-2023,sanctions,Neg,Neu,0.888054609298706
+Bahrain's Alba seeks exemption from U.S. aluminum tariffs: CEO,reuters,,unknown,tariffs_trade,Neu,Neu,0.8146766424179077
+M&S chair reveals two major company hacks have ‘gone unreported’; Germany warns EU is ready to retaliate in US trade war – as it happened,guardian,2025-07-08,2024-2026,tariffs_trade,Neg,Neg,0.9174689650535583
+EU parliament blocks US trade deal after Trump’s tariff threat,guardian,2026-01-21,2024-2026,tariffs_trade,Neg,Neg,0.92477947473526
+Reckitt Benckiser shares fall as investors prepare for Trump tariff impact,guardian,2025-04-23,2024-2026,tariffs_trade,Neg,Neg,0.9526787400245667
+"US adds 147,000 jobs in June, surpassing expectations amid Trump trade war",guardian,2025-07-03,2024-2026,tariffs_trade,Pos,Pos,0.9106724262237549
+EU considers retaliatory measures over Trump Greenland tariff ‘blackmail’,guardian,2026-01-19,2024-2026,tariffs_trade,Neg,Neu,0.5500260591506958
+Aukus pact: France to send ambassador back to US after Macron-Biden call,guardian,2021-09-22,2018-2021,industrial_policy,Neu,Neu,0.769487738609314
+"Japan could be exempted from U.S. tariffs on steel, aluminium: Seko",reuters,,unknown,tariffs_trade,Pos,Neu,0.8936259746551514
+EU expands sanctions against North Korea as Trump meets Xi,reuters,,unknown,sanctions,Neg,Neu,0.43058323860168457
+"U.S. senators seek sanctions, other ways to address Venezuela crisis",reuters,,unknown,sanctions,Neg,Neu,0.7528222799301147
+ASX 200 sheds $40bn in value as Australian shares plunge amid US-China trade war,guardian,2025-04-09,2024-2026,tariffs_trade,Neg,Neg,0.9552753567695618
+Canada PM open to tougher Russia sanctions amid Syria crisis,reuters,,unknown,sanctions,Neg,Neu,0.4070347547531128
+US announces new Iran sanctions and claims it is enforcing UN arms embargo,guardian,2020-09-21,2018-2021,sanctions,Neg,Neg,0.8706963062286377
+China says Trump’s trade war ‘will end in failure’ as Beijing tariffs take effect,guardian,2025-04-10,2024-2026,tariffs_trade,Neg,Neg,0.8015000224113464
+Wall Street surges after US and China agree to slash tariffs in 90-day pause – as it happened,guardian,2025-05-12,2024-2026,tariffs_trade,Pos,Neg,0.5165455937385559
+"U.S. issues fresh Iran sanctions, targets Evin prison",reuters,,unknown,sanctions,Neg,Neu,0.5750837922096252
+"Donald Trump suggests tariffs on China should be 80%, as investors hope for thaw in trade war – as it happened",guardian,2025-05-09,2024-2026,tariffs_trade,Neg,Neu,0.5534420013427734
