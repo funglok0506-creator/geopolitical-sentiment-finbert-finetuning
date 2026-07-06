@@ -16,15 +16,12 @@ pip install -r requirements.txt
 Scripts are to be run in this order:
 '''bash
 python collect_datav4.py # serves to scrape geopolitical headlines with given filters
-python finbert_initial_analysis 
 
-trains zero-shot baseline model and evaluate its in-domain performance
-python finbert_lora_models.py 
+python finbert_initial_analysis # trains zero-shot baseline model and evaluate its in-domain performance
 
-trains all three configurations and evaluates in domain performance
-python evaluate.py 
+python finbert_lora_models.py # trains all three configurations and evaluates in domain performance
 
-evaluates models on geopolitical headlines test set
+python evaluate.py # evaluates models on geopolitical headlines test set
 '''
 
 # Key results
