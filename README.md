@@ -18,13 +18,13 @@ Scripts are to be run in this order:
 python collect_datav4.py # serves to scrape geopolitical headlines with given filters
 python finbert_initial_analysis 
 
-# serves to train zero-shot baseline model and evaluate its in-domain performance
+trains zero-shot baseline model and evaluate its in-domain performance
 python finbert_lora_models.py 
 
-# trains all three configurations and evaluates in domain performance
+trains all three configurations and evaluates in domain performance
 python evaluate.py 
 
-# evaluates models on geopolitical headlines test set
+evaluates models on geopolitical headlines test set
 '''
 
 # Key results
